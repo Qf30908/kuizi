@@ -9,7 +9,7 @@ const questions = [
       "25.01.1991",
       "08.09.1991"
     ],
-    "answerIndex": 0
+    "answerIndex": 1
   },
   {
     "id": 2,
