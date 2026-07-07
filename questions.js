@@ -9,7 +9,7 @@ const questions = [
       "25.01.1991",
       "08.09.1991"
     ],
-    "answerIndex": 0
+    "answerIndex": 1
   },
   {
     "id": 2,
@@ -3342,7 +3342,7 @@ const questions = [
       "tre muaj",
       "gjashtë muaj"
     ],
-    "answerIndex": 2
+    "answerIndex": 1
   },
   {
     "id": 284,
@@ -3390,7 +3390,7 @@ const questions = [
       "do të shënohet në procesverbal",
       "bëhet me miratimin e një akti administrativ"
     ],
-    "answerIndex": 2
+    "answerIndex": 1
   },
   {
     "id": 288,
@@ -3401,7 +3401,7 @@ const questions = [
       "e saktë",
       "e pasaktë"
     ],
-    "answerIndex": 1
+    "answerIndex": 0
   },
   {
     "id": 289,
@@ -3412,7 +3412,7 @@ const questions = [
       "e saktë",
       "e pasaktë"
     ],
-    "answerIndex": 1
+    "answerIndex": 0
   },
   {
     "id": 290,
@@ -3423,7 +3423,7 @@ const questions = [
       "e saktë",
       "e pasaktë"
     ],
-    "answerIndex": 1
+    "answerIndex": 0
   },
   {
     "id": 291,
@@ -3434,7 +3434,7 @@ const questions = [
       "e saktë",
       "e pasaktë"
     ],
-    "answerIndex": 1
+    "answerIndex": 0
   },
   {
     "id": 292,
@@ -3492,7 +3492,7 @@ const questions = [
       "e saktë",
       "e pasaktë"
     ],
-    "answerIndex": 1
+    "answerIndex": 0
   },
   {
     "id": 297,
