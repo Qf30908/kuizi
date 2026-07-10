@@ -4900,7 +4900,7 @@ const questions = [
       "rregulloret e përgjithshme të marrëdhënieve të punës",
       "Ligji i Organizimit dhe i Punës së Administratës Shtetërore"
     ],
-    "answerIndex": 2
+    "answerIndex": 1
   },
   {
     "id": 416,
@@ -5080,7 +5080,7 @@ const questions = [
       "shpalljen e konkursit public",
       "njoftim me shkrim në faqen e internetit të institucionit"
     ],
-    "answerIndex": 2
+    "answerIndex": 1
   },
   {
     "id": 431,
@@ -5104,7 +5104,7 @@ const questions = [
       "shpalljen e konkursit të brendshëm",
       "duke lëshuar një deklaratë për media"
     ],
-    "answerIndex": 2
+    "answerIndex": 1
   },
   {
     "id": 433,
@@ -5282,7 +5282,7 @@ const questions = [
       "e saktë",
       "e pasaktë"
     ],
-    "answerIndex": 1
+    "answerIndex": 0
   },
   {
     "id": 448,
@@ -5305,7 +5305,7 @@ const questions = [
       "e saktë",
       "e pasaktë"
     ],
-    "answerIndex": 1
+    "answerIndex": 0
   },
   {
     "id": 450,
@@ -5424,7 +5424,7 @@ const questions = [
       "gjenerike dhe të specializuara",
       "individuale dhe kolektive"
     ],
-    "answerIndex": 2
+    "answerIndex": 1
   },
   {
     "id": 460,
@@ -5508,7 +5508,7 @@ const questions = [
       "Ministria e Shoqërisë Informatike dhe e Administratës",
       "Ministria e Arsimit dhe Shkencës"
     ],
-    "answerIndex": 2
+    "answerIndex": 1
   },
   {
     "id": 467,
@@ -5783,7 +5783,7 @@ const questions = [
       "e saktë",
       "e pasaktë"
     ],
-    "answerIndex": 1
+    "answerIndex": 0
   },
   {
     "id": 491,
@@ -5882,7 +5882,7 @@ const questions = [
       "saktë",
       "pasaktë"
     ],
-    "answerIndex": 1
+    "answerIndex": 0
   },
   {
     "id": 500,
@@ -5905,7 +5905,7 @@ const questions = [
       "e saktë",
       "e pasaktë"
     ],
-    "answerIndex": 1
+    "answerIndex": 0
   },
   {
     "id": 502,
@@ -6047,7 +6047,7 @@ const questions = [
       "e saktë",
       "e pasaktë"
     ],
-    "answerIndex": 1
+    "answerIndex": 0
   },
   {
     "id": 514,
@@ -6160,7 +6160,7 @@ const questions = [
       "e saktë",
       "e pasaktë"
     ],
-    "answerIndex": 1
+    "answerIndex": 0
   },
   {
     "id": 524,
@@ -6172,7 +6172,7 @@ const questions = [
       "Inspektorati Administrativ Shtetëror",
       "Inspektorati Shtetëror i Punës"
     ],
-    "answerIndex": 2
+    "answerIndex": 1
   },
   {
     "id": 525,
@@ -6244,7 +6244,7 @@ const questions = [
       "organet e administratës shtetërore",
       "organet e pushtetit shtetëror dhe lokal"
     ],
-    "answerIndex": 2
+    "answerIndex": 1
   },
   {
     "id": 531,
@@ -6256,7 +6256,7 @@ const questions = [
       "tri faza",
       "katër faza"
     ],
-    "answerIndex": 2
+    "answerIndex": 1
   },
   {
     "id": 532,
