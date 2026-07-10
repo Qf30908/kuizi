@@ -6457,7 +6457,7 @@ const questions = [
       "interesin public",
       "interesin privat"
     ],
-    "answerIndex": 2
+    "answerIndex": 1
   },
   {
     "id": 549,
@@ -6491,7 +6491,7 @@ const questions = [
       "po",
       "jo"
     ],
-    "answerIndex": 1
+    "answerIndex": 0
   },
   {
     "id": 552,
@@ -6737,7 +6737,7 @@ const questions = [
       "nevojat zyrtare",
       "për çdo nevojë"
     ],
-    "answerIndex": 2
+    "answerIndex": 1
   },
   {
     "id": 573,
