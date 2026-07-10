@@ -3045,7 +3045,7 @@ const questions = [
       "anëtarit të saj",
       "shoqatës së qytetarëve"
     ],
-    "answerIndex": 2
+    "answerIndex": 1
   },
   {
     "id": 259,
