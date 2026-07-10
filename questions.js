@@ -139,7 +139,7 @@ const questions = [
       "materie kushtetuese në Republikën e Maqedonisë",
       "personale"
     ],
-    "answerIndex": 2
+    "answerIndex": 1
   },
   {
     "id": 13,
