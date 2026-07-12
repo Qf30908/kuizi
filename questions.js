@@ -220,7 +220,7 @@ const questions = [
       "po",
       "jo"
     ],
-    "answerIndex": 1
+    "answerIndex": 0
   },
   {
     "id": 20,
@@ -231,7 +231,7 @@ const questions = [
       "janë të garantuara me Kushtetutë",
       "nuk janë të garantuara me Kushtetutë"
     ],
-    "answerIndex": 1
+    "answerIndex": 0
   },
   {
     "id": 21,
@@ -655,7 +655,7 @@ const questions = [
       "e saktë",
       "e pasaktë"
     ],
-    "answerIndex": 1
+    "answerIndex": 0
   },
   {
     "id": 57,
@@ -833,7 +833,7 @@ const questions = [
       "e saktë",
       "e pasaktë"
     ],
-    "answerIndex": 1
+    "answerIndex": 0
   },
   {
     "id": 72,
@@ -893,7 +893,7 @@ const questions = [
       "gjashtë vjet",
       "tetë vjet"
     ],
-    "answerIndex": 2
+    "answerIndex": 1
   },
   {
     "id": 77,
