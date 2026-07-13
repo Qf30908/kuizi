@@ -2219,7 +2219,7 @@ const questions = [
       "po",
       "jo"
     ],
-    "answerIndex": 1
+    "answerIndex": 0
   },
   {
     "id": 189,
